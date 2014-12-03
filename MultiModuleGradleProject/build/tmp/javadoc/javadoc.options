@@ -1,0 +1,7 @@
+-classpath 'C:\\Users\\sgkarri\\Desktop\\Today\\MultiModuleGradleProject\\build\\classes\\main;C:\\Users\\sgkarri\\Desktop\\Today\\MultiModuleGradleProject\\build\\resources\\main;C:\\Users\\sgkarri\\.gradle\\caches\\artifacts-23\\filestore\\commons-collections\\commons-collections\\3.2\\jar\\f951934aa5ae5a88d7e6dfaa6d32307d834a88be\\commons-collections-3.2.jar'
+-d 'C:\\Users\\sgkarri\\Desktop\\Today\\MultiModuleGradleProject\\build\\docs\\javadoc'
+-doctitle 'MultiModuleGradleProject 1.0 API'
+-quiet 
+-windowtitle 'MultiModuleGradleProject 1.0 API'
+'C:\\Users\\sgkarri\\Desktop\\Today\\MultiModuleGradleProject\\src\\main\\java\\com\\nisum\\AdditionOfNumbers.java'
+'C:\\Users\\sgkarri\\Desktop\\Today\\MultiModuleGradleProject\\src\\main\\java\\org\\gradle\\Person.java'
